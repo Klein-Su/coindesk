@@ -1,2 +1,2 @@
 # coindesk
-Coindesk API
+# coindesk
